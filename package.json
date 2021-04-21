@@ -1,0 +1,31 @@
+{
+  "name": "BuenaBit",
+  "version": "1.0.0",
+  "description": "Maquetado",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "storybook": "start-storybook -p 6006",
+    "build-storybook": "build-storybook"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Getsuga743/BuenaBit.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Getsuga743/BuenaBit/issues"
+  },
+  "homepage": "https://github.com/Getsuga743/BuenaBit#readme",
+  "devDependencies": {
+    "@babel/core": "^7.13.16",
+    "@storybook/addon-actions": "^6.2.8",
+    "@storybook/addon-essentials": "^6.2.8",
+    "@storybook/addon-links": "^6.2.8",
+    "@storybook/html": "^6.2.8",
+    "babel-loader": "^8.2.2"
+  },
+  "dependencies": {}
+}
